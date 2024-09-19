@@ -1,0 +1,12 @@
+# API
+API/API_python-env
+API/__pycache__
+API/.venv
+
+
+# Frontend
+
+
+# Backend
+
+Back/node_modules
